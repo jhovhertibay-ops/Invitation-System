@@ -1,0 +1,6 @@
+{
+  "name": "Baptism & 1st Birthday Online Invitation System",
+  "description": "Production-ready online invitation and guest RSVP system for holy baptism and 1st birthday celebrations, featuring drafts, publishing, and cloud synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
